@@ -1,7 +1,7 @@
 # Bootstrap Vue Modal
 
-## Installation
+> This was an failed attempt to make the Bootstrap v4 modal to work with Vue 3
 
-```bash
-npm install bootstrap-vue-modal
-```
+### Ref links
+
+* https://bootstrap-vue-next.github.io/bootstrap-vue-next/
